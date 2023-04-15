@@ -7,6 +7,6 @@ Health Insurance merupakan salah satu hal yang perlu diperhatikan karena bersang
 - Karakteristik probabilitas dari Categorical Variable
 - Karakteristik probabilitas dari Continous Variable
 - Correlation Value untuk tiap variable yang berkaitan dengan tagihan
-- Hypothesis Testing terhadap asumsi awal yang coba dilakukan untuk analisis terhadap dataset Insurance.
+- Hypotheses Testing terhadap asumsi awal yang coba dilakukan untuk analisis terhadap dataset Insurance.
 
 Thank You.
