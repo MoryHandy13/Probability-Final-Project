@@ -3,7 +3,7 @@
 - Karakteristik probabilitas dari Categorical Variable
 - Karakteristik probabilitas dari Continous Variable
 - Correlation Value untuk tiap variable yang berkaitan dengan tagihan
-- Hypotesis Testing terhadap asumsi awal yang coba dilakukan untuk analisis terhadap dataset Insurance
+- Hypothesis Testing terhadap asumsi awal yang coba dilakukan untuk analisis terhadap dataset Insurance
 
 **2. Description (Case Background)**
 
